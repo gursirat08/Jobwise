@@ -128,9 +128,7 @@
 **5.Run the Flask application**
 
     python app.py
-
-
-** Author**
+**Author**
 
 
 Gursirat Kaur
