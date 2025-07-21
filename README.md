@@ -132,7 +132,6 @@
 
 ** Author**
 
-Gursirat Kaur
-Email: sirat8122@gmil.com
+
 Gursirat Kaur
 Email: sirat8122@gmail.com
